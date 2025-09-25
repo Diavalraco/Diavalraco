@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diavalraco&label=Profile%20views&color=0e75b6&style=flat" alt="diavalraco" /> </p>
 
-- 🌱 I’m currently learning **NextJs and Django**
+- 🌱 I’m currently learning **NextJs and Go**
 
 - 💬 Ask me about **Fullstack Development (Web, Mobile & Desktop) and Devops**
 
