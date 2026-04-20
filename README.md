@@ -16,15 +16,13 @@
 
 ## 🧑‍💻 About Me
 
-```json
-{
-  "role": "Full Stack Engineer",
-  "location": "India 🇮🇳",
-  "learning": ["Next.js", "Go", "Distributed Systems"],
-  "focus": "Backend · Cloud · GenAI · DevOps",
-  "ask_me_about": ["System Design", "Microservices", "LLM Integration", "Scalable APIs"],
-  "motto": "Build fast. Scale smart. Ship often."
-}
+```yaml
+role:        Full Stack Engineer
+location:    India 🇮🇳
+learning:    [Next.js, Go, Distributed Systems]
+focus:       Backend · Cloud · GenAI · DevOps
+ask me:      [System Design, Microservices, LLM Integration, Scalable APIs]
+motto:       "Build fast. Scale smart. Ship often."
 ```
 
 ---
@@ -138,16 +136,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diavalraco&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diavalraco&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=diavalraco&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diavalraco&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diavalraco&theme=tokyonight&hide_border=true" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diavalraco&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diavalraco&theme=tokyo-night&hide_border=true&area=true&height=250" width="95%"/>
 </div>
 
 ---
