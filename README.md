@@ -70,7 +70,7 @@ Ask Me:   [System Design, Microservices, LLM Integration, Scalable APIs]
 ## ⚡ GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diavalraco&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diavalraco&theme=tokyonight" height="160"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=diavalraco&theme=tokyo-night&hide_border=true&area=true" height="160"/>
 </div>
