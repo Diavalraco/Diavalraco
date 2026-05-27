@@ -1,6 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=80&section=header" width="100%"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 80" width="100%">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#headerGrad)" d="M0,40 C360,80 1080,0 1440,40 L1440,0 L0,0 Z"/>
+</svg>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=1000&color=6EE7F7&center=true&vCenter=true&width=700&height=50&lines=Aarush+Yadav+%E2%80%94+Full+Stack+Engineer;Backend+%7C+Cloud+%7C+GenAI+%7C+DevOps;Building+at+Scale+%F0%9F%9A%80" alt="Typing SVG" />
@@ -69,5 +78,16 @@ Ask Me:   [System Design, Microservices, LLM Integration, Scalable APIs]
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=70&section=footer"/>
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 70" width="100%">
+  <defs>
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#24243e"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#0f0c29"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#footerGrad)" d="M0,30 C360,0 1080,60 1440,30 L1440,70 L0,70 Z"/>
+</svg>
+
 </div>
