@@ -1,5 +1,4 @@
 <div align="center">
-
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 80" width="100%">
   <defs>
     <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
